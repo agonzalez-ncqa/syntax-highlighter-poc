@@ -1,4 +1,4 @@
-# POC for a syntax highlighter that supports the cql language
+# POC for a syntax highlighter that supports the CQL language
 
 I couldn't find a syntax highlighter with support for CQL so I opted to use [react-syntax-highlighter](https://www.npmjs.com/package/react-syntax-highlighter), a popular lightweight package with support for [hljs](https://www.npmjs.com/package/react-syntax-highlighter) and [prism](https://www.npmjs.com/package/prismjs).
 
