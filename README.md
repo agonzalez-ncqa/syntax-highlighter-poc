@@ -1,1 +1,1 @@
-# POC FOR A SYNTAX HIGHLIGHTER THAT SUPPORTS THE CQL LANGUAGE
+# POC for a syntax highlighter that supports the cql language
